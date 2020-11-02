@@ -1,6 +1,7 @@
-# calculate-fixed-income
+# calculate-fixed-income-front
 
-> A Vue.js project
+> SPA em Vue.js para cálculo de investimento renda fixa atrelado ao CDI.
+> 
 
 ## Build Setup
 

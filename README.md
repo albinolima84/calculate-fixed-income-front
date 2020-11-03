@@ -40,7 +40,7 @@ npm run dev
 
 ## Versionamento
 
- * Projeto versionado no github: https://github.com/albinolima84/CalculateFixedIncomeInvestment
+ * Projeto versionado no github: https://github.com/albinolima84/calculate-fixed-income-front
 
 ## Tests
 
